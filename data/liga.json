@@ -1,0 +1,30 @@
+{
+  "teams": [
+    {
+      "id": "t1",
+      "name": "team1"
+    },
+    {
+      "id": "t2",
+      "name": "team2"
+    }
+  ],
+  "players": [
+    {
+      "id": "p1",
+      "nickname": "p1 nickname"
+    },
+    {
+      "id": "p2",
+      "nickname": "p2 nickname"
+    },
+    {
+      "id": "p3",
+      "nickname": "p3 nickname"
+    },
+    {
+      "id": "p4",
+      "nickname": "p4 nickname"
+    }
+  ]
+}
