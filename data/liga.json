@@ -7,6 +7,10 @@
     {
       "id": "t2",
       "name": "team2"
+    },
+    {
+      "id": "t3",
+      "name": "team3"
     }
   ],
   "players": [
